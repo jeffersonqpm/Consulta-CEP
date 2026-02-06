@@ -1,1 +1,1 @@
-#Consulta CEP usando API dos correios
+#Consulta CEP usando API do VIACEP
